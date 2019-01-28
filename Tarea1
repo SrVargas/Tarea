@@ -1,0 +1,42 @@
+	¿Que es un constructor en POO?
+
+		En programación orientada a objetos (POO), un constructor es una subrutina cuya misión es inicializar un objeto de una clase.
+		En el constructor se asignan los valores iniciales del nuevo objeto
+
+		
+		//////5 diferentes constructores de las clases que sean//////
+
+
+/////////////////////////////////////////////////////////////////////////////////
+
+			import java.awt.color
+			ColorSpace (int, int){
+					     
+				///////
+					     }
+/////////////////////////////////////////////////////////////////////////////////
+			import java.awt.color
+			ColorSpace (ICC_Profile){
+					     
+				///////
+					     }
+
+/////////////////////////////////////////////////////////////////////////////////
+			import javax.swing.table
+			DefaultTableCellRenderer(){
+					     
+				///////
+					          }
+/////////////////////////////////////////////////////////////////////////////////
+			import javax.sound.midi
+			ColorSpace (Soundbank,Patch,String,Class){
+					     
+				///////
+					     			 }
+/////////////////////////////////////////////////////////////////////////////////
+			import java.nio.charset
+			Charset(String, String[]){
+					     
+				///////
+					         }
+////////////////////////////////////////////////////////////////////////////
